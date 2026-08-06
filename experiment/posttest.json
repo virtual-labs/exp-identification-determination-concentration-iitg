@@ -2,35 +2,171 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The factor responsible for upward movement of solvent in TLC plate is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Pressure",
+        "b": "Capillary action",
+        "c": "Gravity",
+        "d": "Vacuum"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The stationary phase in TLC is",
+      "answers": {
+        "a": "Silica",
+        "b": "Glass",
+        "c": "Graphite",
+        "d": "Carbon"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In TLC, which substances move up the plate fastest?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Highly polar substances",
+        "b": "Non-polar substances",
+        "c": "High molecular weight compounds",
+        "d": "All move at the same speed"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The formula to calculate Retention Factor (Rf value) is",
+      "answers": {
+        "a": "Rf = Distance travelled by solvent front (ds) / Distance travelled by analyte front (d1)",
+        "b": "Rf = Distance travelled by analyte front (d1) / Distance travelled by solvent front (ds)",
+        "c": "Rf = Distance travelled by origin / Distance travelled by solvent front (ds)",
+        "d": "Rf = Analyte concentration / Solvent concentration"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Two analytes A and B are analyzed on TLC. A has more affinity for stationary phase. The Rf of analyte A is",
+      "answers": {
+        "a": "More than B",
+        "b": "Less than B",
+        "c": "Same as B",
+        "d": "Rf depends on solvent"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Thin layer chromatography is used for",
+      "answers": {
+        "a": "Testing the purity of a sample",
+        "b": "Oligomeric status",
+        "c": "Determining exact molecular weight of compounds",
+        "d": "Desalting"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The thin layer chromatography is used for",
+      "answers": {
+        "a": "Determination of molecular weight",
+        "b": "Monitoring the progress of a reaction",
+        "c": "Volatile liquids",
+        "d": "Gas as mobile phase"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The reagent used to stain amino acid resolved on TLC plate is",
+      "answers": {
+        "a": "EtBr",
+        "b": "Silver nitrate",
+        "c": "Coomassie brilliant blue",
+        "d": "Ninhydrin"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The filter paper is placed within TLC chamber to",
+      "answers": {
+        "a": "Increase the speed of the solvent",
+        "b": "Ensure the atmosphere is saturated with solvent vapor",
+        "c": "Make the separation faster",
+        "d": "Filter the solvent"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "While performing thin layer chromatography (TLC) the molecule immobilizes where (Fm = force by mobile phase, Fs = retardation force by stationary phase)",
+      "answers": {
+        "a": "Fm is not equal to Fs",
+        "b": "Fm < Fs",
+        "c": "Fm = Fs",
+        "d": "Fm > Fs"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
