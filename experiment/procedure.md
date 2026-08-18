@@ -1,5 +1,3 @@
-### Procedure
-
 **Operation of the technique-** Several steps are required to perform a thin layer chromatography to analyze a complex sample. These preparatory and operational steps are as follows:
 
 ![Figure 2](images/procedure-image.png)
@@ -57,29 +55,29 @@ There are two methods of developing a chromatogram-
 
 ### Table 1: Calculation of Rf Values
 
-| SNo. | Amino Acids | Distance travelled by Sample | Distance travelled by Solvent | Normalized Rf Values |
-| ---- | ----------- | ---------------------------: | ----------------------------: | -------------------: |
-| 1  | Alanine       | 0.265 | 6.8 | 0.2728 |
-| 2  | Arginine      | 0.69  | 6.8 | 0.1498 |
-| 3  | Aspartic Acid | 1.79  | 6.8 | 0.2573 |
-| 4  | Cysteine      | 0.69  | 6.8 | 0.1014 |
-| 5  | Glycine       | 1.3   | 6.0 | 0.2456 |
-| 6  | Glutamic Acid | 1.0   | 6.0 | 0.2819 |
-| 7  | Histidine     | 0.5   | 6.0 | 0.1152 |
-| 8  | Isoleucine    | 4.2   | 7.0 | 0.5719 |
-| 9  | Leucine       | 4.4   | 7.0 | 0.6115 |
-| 10 | Lysine        | 0.8   | 7.0 | 0.1137 |
-| 11 | Methionine    | 2.8   | 6.4 | 0.4798 |
-| 12 | Phenylalanine | 3.9   | 7.8 | 0.5895 |
-| 13 | Proline       | 1.7   | 7.8 | 0.2611 |
-| 14 | Serine        | 0.9   | 6.3 | 0.2389 |
-| 15 | Threonine     | 3.9   | 6.3 | 0.2876 |
-| 16 | Tryptophan    | 3.9   | 6.3 | 0.6405 |
-| 17 | Tyrosine      | 3.0   | 6.3 | 0.5288 |
-| 18 | Valine        | 2.4   | 6.3 | 0.4235 |
-| 19 | Unknown A     | 3.3   | 6.4 | 0.563  |
-| 20 | Unknown B     | 2.7   | 6.4 | 0.461  |
-| 21 | Unknown C     | 0.5   | 6.4 | 0.085  |
+| SNo. | Amino Acids   | Distance travelled by Sample | Distance travelled by Solvent | Normalized Rf Values |
+| ---- | ------------- | ---------------------------: | ----------------------------: | -------------------: |
+| 1    | Alanine       |                        0.265 |                           6.8 |               0.2728 |
+| 2    | Arginine      |                         0.69 |                           6.8 |               0.1498 |
+| 3    | Aspartic Acid |                         1.79 |                           6.8 |               0.2573 |
+| 4    | Cysteine      |                         0.69 |                           6.8 |               0.1014 |
+| 5    | Glycine       |                          1.3 |                           6.0 |               0.2456 |
+| 6    | Glutamic Acid |                          1.0 |                           6.0 |               0.2819 |
+| 7    | Histidine     |                          0.5 |                           6.0 |               0.1152 |
+| 8    | Isoleucine    |                          4.2 |                           7.0 |               0.5719 |
+| 9    | Leucine       |                          4.4 |                           7.0 |               0.6115 |
+| 10   | Lysine        |                          0.8 |                           7.0 |               0.1137 |
+| 11   | Methionine    |                          2.8 |                           6.4 |               0.4798 |
+| 12   | Phenylalanine |                          3.9 |                           7.8 |               0.5895 |
+| 13   | Proline       |                          1.7 |                           7.8 |               0.2611 |
+| 14   | Serine        |                          0.9 |                           6.3 |               0.2389 |
+| 15   | Threonine     |                          3.9 |                           6.3 |               0.2876 |
+| 16   | Tryptophan    |                          3.9 |                           6.3 |               0.6405 |
+| 17   | Tyrosine      |                          3.0 |                           6.3 |               0.5288 |
+| 18   | Valine        |                          2.4 |                           6.3 |               0.4235 |
+| 19   | Unknown A     |                          3.3 |                           6.4 |                0.563 |
+| 20   | Unknown B     |                          2.7 |                           6.4 |                0.461 |
+| 21   | Unknown C     |                          0.5 |                           6.4 |                0.085 |
 
 **Result (A):**
 
@@ -105,14 +103,14 @@ There are two methods of developing a chromatogram-
 
 | SNo. | Amino Acid Sample | Volume (µL) | Amount (µg) | Area (cm²) |
 | ---- | ----------------- | ----------: | ----------: | ---------: |
-| 1 | Standard 1      | 0.5 | 0.005 | 9  |
-| 2 | Standard 2      | 1   | 0.010 | 10 |
-| 3 | Standard 3      | 1.5 | 0.015 | 18 |
-| 4 | Standard 4      | 2   | 0.020 | 24 |
-| 5 | Standard 5      | 2.5 | 0.025 | 26 |
-| 6 | Standard 6      | 3   | 0.030 | 28 |
-| 7 | Unknown Sample  | 1   | -     | 7  |
-| 7 |                 | 2   | -     | 11 |
+| 1    | Standard 1        |         0.5 |       0.005 |          9 |
+| 2    | Standard 2        |           1 |       0.010 |         10 |
+| 3    | Standard 3        |         1.5 |       0.015 |         18 |
+| 4    | Standard 4        |           2 |       0.020 |         24 |
+| 5    | Standard 5        |         2.5 |       0.025 |         26 |
+| 6    | Standard 6        |           3 |       0.030 |         28 |
+| 7    | Unknown Sample    |           1 |           - |          7 |
+| 7    |                   |           2 |           - |         11 |
 
 **Calculations:**
 
