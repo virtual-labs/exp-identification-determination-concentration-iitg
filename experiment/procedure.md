@@ -147,3 +147,9 @@ Similarly, unknown sample with volume applied as 2 µl;
 **Result (B):**
 
 The concentration of unknown from the sample is **3.48 µg/ml**
+
+---
+
+## Video Demonstration
+
+[![Watch the video](https://img.youtube.com/vi/xdhfxaAZlYI/maxresdefault.jpg)](https://www.youtube.com/watch?v=xdhfxaAZlYI)
