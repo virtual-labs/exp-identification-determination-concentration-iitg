@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Match the amino acids with their properties. Column 1: (1) W, Y, F  (2) P  (3) I, V, A, L  (4) H  (5) D, E. Column 2: (a) Neutral at physiological pH  (b) Negatively charged amino acids  (c) Aromatic amino acids  (d) Amino acids with aliphatic side chains  (e) Imino group.",
+      "answers": {
+        "a": "1-c, 2-e, 3-d, 4-a, 5-b",
+        "b": "1-d, 2-a, 3-c, 4-e, 5-b",
+        "c": "1-c, 2-e, 3-a, 4-b, 5-d",
+        "d": "1-d, 2-c, 3-b, 4-a, 5-e"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Dithiothreitol (DTT) and beta-mercaptoethanol is used ____________ in peptide sequencing.",
+      "answers": {
+        "a": "As reducing agent in making di-sulfide bridges.",
+        "b": "For breaking non-covalent interactions.",
+        "c": "As reducing agent in breaking di-sulfide bridges.",
+        "d": "As oxidizing agent in breaking di-sulfide bridges."
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "____________ is branched at beta-carbon.",
+      "answers": {
+        "a": "Glutamine",
+        "b": "Isoleucine",
+        "c": "Leucine",
+        "d": "Arginine"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The type of bond used in joining amino acids in a protein are",
+      "answers": {
+        "a": "Ionic bonds",
+        "b": "Hydrogen bonds",
+        "c": "Peptide bonds",
+        "d": "Van der Waals bonds"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The part of the amino acid that varies among the 20 amino acids is",
+      "answers": {
+        "a": "Alpha-carbon",
+        "b": "Amine group",
+        "c": "Carboxyl group",
+        "d": "Side chain or R group"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The significance of the alpha-carbon in amino acids is",
+      "answers": {
+        "a": "It is a chiral center creating stereoisomers",
+        "b": "It determines the amino acid's chemical reactivity",
+        "c": "It forms the peptide bond",
+        "d": "It dictates the amino acid's primary structure"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The amino acid that contains a thiol group is",
+      "answers": {
+        "a": "Proline",
+        "b": "Tyrosine",
+        "c": "Serine",
+        "d": "Cysteine"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The rotational freedom of amino acids in proteins is primarily governed by",
+      "answers": {
+        "a": "Omega angle",
+        "b": "Theta angle",
+        "c": "Phi and psi dihedral angles",
+        "d": "Alpha angle"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The amino acid with smallest side chain is",
+      "answers": {
+        "a": "Proline",
+        "b": "Alanine",
+        "c": "Threonine",
+        "d": "Glycine"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The amino acid with imidazole ring is",
+      "answers": {
+        "a": "Histidine",
+        "b": "Cysteine",
+        "c": "Proline",
+        "d": "Aspartate"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
