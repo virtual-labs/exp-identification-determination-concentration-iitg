@@ -112,6 +112,10 @@ There are two methods of developing a chromatogram-
 | 7    | Unknown Sample    |           1 |           - |          7 |
 | 7    |                   |           2 |           - |         11 |
 
+![Figure 6: Amino acid calibration curve](images/amino-acid-calibration.png)
+
+**Figure 6:** Correlation between amino acid amount and spot area.
+
 **Calculations:**
 
 **a. For Excel graph:**
